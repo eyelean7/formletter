@@ -1,0 +1,21 @@
+#letter {
+  display: none;
+}
+
+form {
+  margin: 50px;
+}
+
+.well {
+  width:50%;
+  margin:auto;
+  margin-top: 20px;
+}
+
+h3 {
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+}
